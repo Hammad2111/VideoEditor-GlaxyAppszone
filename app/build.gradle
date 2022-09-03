@@ -1,0 +1,139 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+
+    packagingOptions {
+        pickFirst '**/*.so'
+    }
+    compileSdk 31
+    ndkVersion '23.0.7599858'
+    defaultConfig {
+        applicationId "com.glaxyappszone.videoeditor.creator"
+        minSdk 24
+        targetSdk 31
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        archivesBaseName = "Video Editor GlaxyApps Zone-V$versionCode($versionName)"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+
+
+
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+
+    sourceSets.main {
+        jniLibs.srcDir 'src/main/libs'
+        jni.srcDirs = [] //disable automatic ndk-build call
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+
+
+    implementation 'androidx.lifecycle:lifecycle-process:2.3.1'
+    testImplementation 'junit:junit:4.13'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
+
+    implementation 'com.google.android.play:core:1.8.0'
+    implementation 'androidx.core:core:1.3.1'
+    implementation 'androidx.media:media:1.2.0'
+
+    implementation 'com.arthenica:ffmpeg-kit-full-gpl:4.5.LTS'
+    implementation 'com.arthenica:smart-exception-java:0.1.0'
+    implementation 'com.arthenica:mobile-ffmpeg-full:4.4.LTS'
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+
+
+    implementation 'com.edmodo:cropper:1.0.0'
+    implementation 'com.hovans.dynamicgrid:dynamicgrid:1.0.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+
+
+    implementation 'com.airbnb.android:lottie:5.2.0'
+
+
+
+
+
+    def work_version = "2.7.1"
+
+    // (Java only)
+    implementation "androidx.work:work-runtime:$work_version"
+
+
+    implementation 'com.github.bumptech.glide:glide:3.6.1'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'org.apache.httpcomponents:httpcore:4.4.13'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'com.google.android.material:material:1.2.0'
+    implementation 'com.xw.repo:bubbleseekbar:3.20'
+    implementation 'com.android.support:multidex:1.0.3'
+
+    implementation 'com.ogaclejapan.smarttablayout:library:1.7.0@aar'
+    implementation 'com.ogaclejapan.smarttablayout:utils-v4:1.7.0@aar'
+
+    implementation 'com.zcw:togglebutton-library:1.0.0'
+    implementation 'com.github.lawloretienne:discreteslider:0.0.9'
+
+
+    implementation 'com.hovans.dynamicgrid:dynamicgrid:1.0.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.google.code.gson:gson:2.3.1'
+    implementation 'com.github.yukuku:ambilwarna:2.0.1'
+
+
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
+    implementation 'com.eyalbira.loadingdots:loading-dots:1.0.2'
+
+    //Ads
+
+
+    implementation 'com.google.android.gms:play-services-ads:21.0.0'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

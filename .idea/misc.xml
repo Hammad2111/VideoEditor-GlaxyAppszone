@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/2022/Projects/original code/Slomo SleepApp/app/src/main/res/layout/activity_home.xml" value="0.6458333333333334" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo SleepApp/app/src/main/res/layout/audiovideomixeractivity.xml" value="0.28815733219324496" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/drawable/rect_card2.xml" value="0.193" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/activity_main.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/activity_opening.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/ad_unified_med.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/audiovideomixeractivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/fastmotionvideoactivity.xml" value="0.2" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/fb_pp_native_layout.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/gallaryphotosactivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/listgallaryactivity.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/liststatusactivity.xml" value="0.21" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/phototovideo_row_gridphoto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/phototovideo_row_listgallary.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/row_video.xml" value="0.25" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/selectmusic.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/slowmotionvideoactivity.xml" value="0.18" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/startactivity.xml" value="0.33" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/toolbar.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/videocompressactivity.xml" value="0.16" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/videojoineractivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/videojoinerfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/videomirroractivity.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/videomyfragment.xml" value="0.18" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/videoplayer.xml" value="0.16" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/layout/videosplit_row_list.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/menu/main.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/menu/menu_picker.xml" value="0.1675929884566054" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/menu/skip.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/2022/Projects/original code/Slomo Video Creator 2022 admob/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1525" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/drawable/frameadd_btn_selector.xml" value="0.1235" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/drawable/input_field_bg.xml" value="0.1815" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/drawable/music_radio_btn_selector.xml" value="0.185" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/drawable/push_btn_deleteselector.xml" value="0.1155" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/drawable/shape_triangle.xml" value="0.1505" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/drawable/stroke_rect.xml" value="0.185" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/drawable/toolbar_dropshadow.xml" value="0.1505" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/drawable/transparent_background.xml" value="0.1505" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/activity_home.xml" value="0.5" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/audio_select_music_row.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/audiojoineractivity.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/audioplayer.xml" value="0.1" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/enterfilename_popup.xml" value="0.5" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/fragment_selectmusic.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/frame_container_layout.xml" value="0.26" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/gifpreviewactivity.xml" value="0.42875" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/lay_thumb.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/layout_showcaseview.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/mp3cutter_enterfilename_popup.xml" value="0.45625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/mp3cutteractivity.xml" value="0.1" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_gridalbum.xml" value="0.48875" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_hometabactivity.xml" value="0.1" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_moviemaker.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_row_gridphoto.xml" value="0.48875" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_row_listgallary.xml" value="0.48875" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_row_selectimagelist.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_row_selectmusic.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_selectimagefragment.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_selectimagelist.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_tab_album.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/phototovideo_tab_photo.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/raw_image_sticker.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/row_video.xml" value="0.75" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/selectvideocollagefragment.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/test_image_view_with_delete.xml" value="0.26" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/toolbar.xml" value="0.24" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videocollage_row_listaudiotrack.xml" value="0.24" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videocollage_selectpopupwindow.xml" value="0.24" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videocollage_selectsticker.xml" value="0.24" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videocollagecropactivity.xml" value="0.1" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videocompressactivity.xml" value="0.24" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videoconverteractivity.xml" value="0.75" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videocropactivity.xml" value="0.54375" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videocutteractivity.xml" value="0.1" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videorotateactivity.xml" value="0.4075" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videosplitteractivity.xml" value="0.36125" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videotogifactivity.xml" value="0.42875" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videotoimageactivity.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videotomp3_fontlistitem.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videotomp3activity.xml" value="0.53625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_adapter_font.xml" value="0.45625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_adaptersticker.xml" value="0.45625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_adaptertextcolor.xml" value="0.45625" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_customtabiconc.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_customtabtextstickerlayout.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_demo_custom_tab_icons.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_fragment_empty.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_fragment_sticker.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_fragment_text1.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_fragment_text2.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_fragment_text3.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_stickerview.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_sub_sticker_img_raw.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_textstickerview.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermark_viewpagertextsticker.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/layout/videowatermarkactivity.xml" value="0.3275" />
+        <entry key="..\:/Proect Space/Glaxy Apps Zone/code/Video Editor glaxy AppsZone/app/src/main/res/menu/menu_picker.xml" value="0.23" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/drawable/gr_primary.xml" value="0.214" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/drawable/rect_card1.xml" value="0.3828125" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/drawable/rect_card3.xml" value="0.3828125" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/activity_main.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/activity_opening.xml" value="0.1" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/ad_unified.xml" value="0.15520833333333334" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/ad_unified_med.xml" value="0.25364583333333335" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/audiovideomixeractivity.xml" value="0.1" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/fastmotionvideoactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/fb_pp_native_layout.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/gallaryphotosactivity.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/listgallaryactivity.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/liststatusactivity.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/phototovideo_row_gridphoto.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/phototovideo_row_listgallary.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/row_video.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/selectmusic.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/selectmusic_row.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/slowmotionvideoactivity.xml" value="0.1" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/startactivity.xml" value="0.2" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/toolbar.xml" value="0.1390625" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videocompressactivity.xml" value="0.31145833333333334" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videocropactivity.xml" value="0.31145833333333334" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videocutteractivity.xml" value="0.28072916666666664" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videomirroractivity.xml" value="0.22" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videomyfragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videoplayer.xml" value="0.1" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videoreverseactivity.xml" value="0.1" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videosplit_row_list.xml" value="0.12" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/drawable/border_button_shape.xml" value="0.2838541666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/drawable/circle_shape_1.xml" value="0.2921875" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/drawable/rect_startbtn.xml" value="0.31354166666666666" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/activity_main.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/activity_opening.xml" value="0.3338541666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/activity_splash.xml" value="0.29739583333333336" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/ad_unified.xml" value="0.3338541666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/audiovideomixeractivity.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/gallaryphotosactivity.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/listgallaryactivity.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/liststatusactivity.xml" value="0.22" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/phototovideo_row_gridphoto.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/phototovideo_row_listgallary.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/row_video.xml" value="0.2677083333333333" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/selectmusic.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/startactivity.xml" value="0.1" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/toolbar.xml" value="0.29739583333333336" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videocompressactivity.xml" value="0.1" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videoconverteractivity.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videocropactivity.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videocutteractivity.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videojoineractivity.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videojoinerfragment.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videomyfragment.xml" value="0.22" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videoplayer.xml" value="0.22" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/layout/videosplit_row_list.xml" value="0.2760416666666667" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/menu/main.xml" value="0.29739583333333336" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/menu/menu_deleteshare.xml" value="0.29739583333333336" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/menu/menu_picker.xml" value="0.29739583333333336" />
+        <entry key="..\:/Project space/AH SMART SOLUTIONS/code/Video Cutter merger joiner2022/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22864583333333333" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/drawable/gr_btn.xml" value="0.1585" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/drawable/rect_card1.xml" value="0.183" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/drawable/rect_card2.xml" value="0.183" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/activity_home.xml" value="0.27076923076923076" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/activity_main.xml" value="0.27076923076923076" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/activity_opening.xml" value="0.22" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/fastmotionvideoactivity.xml" value="0.2375" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/slowmotionvideoactivity.xml" value="0.2375" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videomirroractivity.xml" value="0.1984375" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videomyfragment.xml" value="0.16875" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videoplayer.xml" value="0.1" />
+        <entry key="..\:/Projectspace/AH SMART SOLUTIONS/code/Slomo Video Creator 2022/app/src/main/res/layout/videoreverseactivity.xml" value="0.1984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

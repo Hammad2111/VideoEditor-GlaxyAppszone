@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#E85C30</color>
+    <color name="purple_500">#D25630</color>
+    <color name="purple_700">#AA4526</color>
+    <color name="teal_200">#FFC107</color>
+    <color name="teal_700">#FF9800</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="trans">#00000000</color>
+    <color name="Sticker_BG_Color">#fff6f6f6</color>
+    <color name="Sticker_Border_Color">#ffffffff</color>
+    <color name="Sticker_Selected_Color">#ffe3e3e3</color>
+    <color name="Button_Normal_Color">#ff252525</color>
+    <color name="Button_Selected_Color">#ff0089ff</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="your_color_selector">#4CAF50</color>
+    <color name="seekbargray">#4CAF50</color>
+    <color name="color_white_color">#FFFFFF</color>
+    <color name="deepgray">#767E7D</color>
+    <color name="btn_tint">#4CAF50</color>
+    <color name="Stroke">#ff0089ff</color>
+    <color name="black_bg">#171717</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="lay">#797575</color>
+    <color name="whiteColor">#DCDADA</color>
+    <color name="borderColor">#673AB7</color>
+    <color name="textColor">#B64B43</color>
+    <color name="selection_border">#CA5E3C</color>
+    <color name="playback_indicator">#673AB7</color>
+    <color name="timecode">#FF9800</color>
+    <color name="timecode_shadow">#2E98A5</color>
+    <color name="waveform_unselected">#FF5722</color>
+    <color name="waveform_unselected_bkgnd_overlay">#00BCD4</color>
+    <color name="Header_Font_Color">#FF5722</color>
+    <color name="Footer_Color">#5E458A</color>
+
+</resources>
